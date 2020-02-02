@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<Quote
+  img="https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FFrankGrimes.png?1497567511887"
+  name="Frank Grimes"
+  text="I live in a single room above a bowling alley...and below another bowling alley."
+/>
+`;
